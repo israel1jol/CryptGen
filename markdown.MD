@@ -1,4 +1,4 @@
-USER Password Generator
+CRYPTGREN User Password Generator
 ======================
 
 
